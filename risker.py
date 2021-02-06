@@ -2,7 +2,7 @@
 #import matplotlib.pyplot as plt
 
 
-def get_predictions(county):
+def get_predictions():
     predictions = []
     #countyShapes = gpd.read_file("NRI_Shapefile_Counties/NRI_Shapefile_Counties.shp")
     #countyShapes.plot()
