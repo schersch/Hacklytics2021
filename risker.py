@@ -1,5 +1,5 @@
-import geopandas as gpd
-import matplotlib.pyplot as plt
+#import geopandas as gpd
+#import matplotlib.pyplot as plt
 
 
 def get_predictions(county):
@@ -9,7 +9,7 @@ def get_predictions(county):
 
     #probably need to pre-generate all the .jpg files and just upload them
     county_img = 'us.jpg'
-    plt.savefig(county_img)
+    #plt.savefig(county_img)
     risk_level = 'TotalRisk: OMG'
     predictions.append(county_img)
     predictions.append(risk_level)
