@@ -1,4 +1,4 @@
-### Hacklytics 2021
+# Hacklytics 2021
 
 ## Inspiration
 On January 27th, 2021, the Pentagon declared climate change a national security issue--this shows the sheer importance of the issue at hand and how it impacts various aspects of our lives.
