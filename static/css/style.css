@@ -1,3 +1,25 @@
-html {
+html, body {
     font-family: 'Courier New', Courier, monospace;
+    height: 100%;
+}
+
+body {
+    text-align: center;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 40px;
+    background-color: rgba(30,194,175,255);
+    color: #f8f9fa;
+}
+.btn-outline-light{
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+    background-color: transparent;
+}
+.btn-outline-light:hover {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
 }
