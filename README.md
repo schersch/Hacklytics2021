@@ -20,7 +20,7 @@ The challenges we ran into is that of our teammates had an emergency, so we had 
 ## What we learned
 We learned about data cleaning and visualization.
 ## What's next for gwRisk
-
+There are a few items from the jupyter notebook that didn't get added to the webpage yet. Once they are added then people can start their local preparations. After that we would like to add some secondary risks to supplement the direct risks so each county can have even more areas to be aware of and prepare for.
 ## Resources
 CSV and Excel files used are from:
 http://www.globalpolicy.science/econ-damage-climate-change-usa
